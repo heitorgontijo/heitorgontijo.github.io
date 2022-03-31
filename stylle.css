@@ -1,7 +1,17 @@
 body {
-    background-color: fundoportifolio.png;
+    background-color: black;
+    background-repeat: no-repeat;
     text-align: center;
+    
 }
+
+#topo {
+    font-size: 45px;
+}
+p, label {
+        font-size: 25px;
+    }
+
 img {
     border-radius: 100%;
     margin-left: auto;
@@ -10,5 +20,5 @@ img {
 }
 
 .rodape{
-    background-color: #333333;
-}
+    text-decoration: none;
+  }
